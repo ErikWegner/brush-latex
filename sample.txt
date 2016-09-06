@@ -1,0 +1,9 @@
+/**
+ * This is a LaTeX sample.
+ */
+\documentclass{article}
+\usepackage[utf8]{inputenc} %File encoding
+\begin{document}
+\LaTeX
+\end{document}
+
