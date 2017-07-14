@@ -1,6 +1,6 @@
 # brush-latex
 
-[![Build Status](https://travis-ci.org/erikwegner/brush-latex.svg)](https://travis-ci.org/erikwegner/brush-latex)
+[![Build Status](https://travis-ci.org/ErikWegner/brush-latex.svg?branch=master)](https://travis-ci.org/ErikWegner/brush-latex)
 ![Downloads](https://img.shields.io/npm/dm/brush-latex.svg)
 ![Version](https://img.shields.io/npm/v/brush-latex.svg)
 
